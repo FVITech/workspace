@@ -33,8 +33,8 @@ Save the file and close it.
 
 ## 5) Sync your workspace
 
-Type `./sync.sh` in your Git Bash. This will send your php files to the server. Open the following URL:
+Type `./sync.sh` in your Git Bash. This will send your php files to the server. 
 
-> http://sites.fvi-grad.com/USERNAME/
+It may ask if you want to add the server key, type `yes`.
 
-Where USERNAME is the one added to your script file.
+Open the following URL: `http://sites.fvi-grad.com/USERNAME/`, where USERNAME is the one added to your script file.
