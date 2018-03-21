@@ -7,7 +7,7 @@ Download and Install Git: https://git-scm.com/downloads
 
 ## 2) Get the workspace
 
-Open your Git Bash, type: `https://github.com/FVITech/workspace.git`
+Open your Git Bash, type: `git clone https://github.com/FVITech/workspace.git`
 
 It may ask if you want to add the server key, type `yes`.
 
